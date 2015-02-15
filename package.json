@@ -1,5 +1,5 @@
 {
-  "name": "flatten-2D-point-ar",
+  "name": "flatten-point-ar",
   "version": "0.0.0",
   "description": "point array [[x,y], [x1, y1], ... , [xn, yn]] to flat array [x, y, x1, y1 ,... , xn, yn]",
   "main": "index.js",
