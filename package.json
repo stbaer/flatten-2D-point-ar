@@ -1,0 +1,24 @@
+{
+  "name": "flatten-2D-point-ar",
+  "version": "0.0.0",
+  "description": "point array [[x,y], [x1, y1], ... , [xn, yn]] to flat array [x, y, x1, y1 ,... , xn, yn]",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/stbaer/flatten-2D-point-ar.git"
+  },
+  "keywords": [
+    "array",
+    "flatten",
+    "browserify"
+  ],
+  "author": "Steffen Bär",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stbaer/flatten-2D-point-ar/issues"
+  },
+  "homepage": "https://github.com/stbaer/flatten-2D-point-ar"
+}
